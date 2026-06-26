@@ -126,7 +126,3 @@ Through this project, I gained practical experience in:
 
 **Fathima Noura P P**
 
-
-
-Email: fathimanourapp@gmail.com
-```
