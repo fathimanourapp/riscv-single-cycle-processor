@@ -48,39 +48,6 @@ The processor consists of the following modules:
 - Branch Logic
 - Result Multiplexer
 
-**Architecture Diagram**
-
-images/singlecycleprocessor.png
-
-
-## Project Structure
-
-
-riscv-single-cycle-processor/
-│
-├── rtl/
-│   ├── riscV_processor.v
-│   ├── riscV_ALU.v
-│   ├── riscV_regfile.v
-│   ├── riscV_instr_mem.v
-│   ├── riscV_data_mem.v
-│   ├── riscV_imm_op.v
-│   ├── riscV_control_unit.v
-│
-├── testbench/
-│   └── riscV_processor_tb.v
-│
-├── docs/
-│   └── Project_Report.pdf
-│
-├── images/
-│   ├── architecture.png
-│   ├── simulation_pc.png
-│   ├── simulation_control.png
-│   ├── simulation_alu.png
-│   └── simulation_memory.png
-│
-└── README.md
 
 
 ## Tool Used
